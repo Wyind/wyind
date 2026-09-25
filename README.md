@@ -38,9 +38,10 @@ your way.
 
 <div align="center">
 
-[![Wyind's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wyind&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117)](https://github-readme-stats.vercel.app/api?username=Wyind)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Wyind&theme=transparent&hide_border=true&background=0D1117&dates=8B949E&ring=58A6FF&fire=58A6FF&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=58A6FF&sideLabels=8B949E)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wyind&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&exclude_repo=github-readme-stats,kitty-themes)](https://github-readme-stats.vercel.app/api/top-langs/?username=Wyind)
+  
+
 
 </div>
 
@@ -83,6 +84,6 @@ your way.
 
 <img src="https://komarev.com/ghpvc/?username=Wyind&style=flat-square&color=58A6FF&label=profile+views" alt="Profile views"/>
 
-<sub>made with rust, coffee and a lot of ctrl+z</sub>
+<sub>made with my heart and soul, coffee and lots of ctrl+s</sub>
 
 </div>
