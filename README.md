@@ -2,11 +2,11 @@
 
 # hey, i'm wyind
 
-### builder of terminal tools, small IDEs and things that live in `$PATH`
+### builder of terminal tools, small IDEs and things.
 
 i write code that runs where i work: the shell. mostly systems stuff in
-**Rust** and **Go**, scripting and tooling in **Python**, and the occasional
-web front-end. i care about fast, keyboard-driven software that stays out of
+**Rust** and **Go** occasionally, scripting and tooling is in **Python**, and the occasional
+website or front-end. i care about fast, keyboard-driven software that stays out of
 your way.
 
 [![Twitter](https://img.shields.io/badge/Twitter-@wyindszn-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://twitter.com/wyindszn)
